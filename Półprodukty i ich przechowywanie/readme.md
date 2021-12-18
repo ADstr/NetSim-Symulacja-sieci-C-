@@ -1,9 +1,9 @@
 ## Półprodukty i ich przechowywanie
 # Cele etapu:
 * Stworzenie szkieletu programu.<br />
-* Implementacja klas takich jak PackageQueue, Worker, Package.<br />
-* Projektowanie interface'u IPackageStockpile<br />
-* Definiowanie typów np.ElementID<br />
+* Implementacja klas.<br />
+* Projektowanie interface'u<br />
+* Definiowanie typów<br />
 # Niezbędne pliki do realizacji zadania:
 * plik nagłówkowy "package.hpp" zawierający definicję klasy Package
 * plik nagłówkowy "types.hpp" zawierający definicję aliasu ElementID
