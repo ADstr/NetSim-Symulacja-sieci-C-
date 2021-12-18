@@ -10,4 +10,4 @@
 * plik nagłówkowy "storage_types.hpp" zawierający definicje klas IPackageStockpile, IPackageQueue i PackageQueue oraz typu wyliczeniowego PackageQueueType
 * pliki źródłowe "package.cpp" i "storage_types.cpp" zawierające definicje funkcjonalności odpowiednich plików nagłówkowych (oraz ewentualne definicje dodatkowych funkcjonalności, niezbędnych wyłącznie w ramach danego pliku źródłowego)<br />
 <br />
-# [Informacje potzebne do realizacji zadania](https://home.agh.edu.pl/~mdig/dokuwiki/doku.php?id=teaching:programming:soft-dev:topics:net-simulation:part_storage)
+[Informacje potzebne do realizacji zadania](https://home.agh.edu.pl/~mdig/dokuwiki/doku.php?id=teaching:programming:soft-dev:topics:net-simulation:part_storage)
