@@ -1,4 +1,11 @@
-##Półprodukty i ich przechowywanie
-##Cel etapu:
-* Stworzenie szkieletu programu.
-
+## Półprodukty i ich przechowywanie
+# Cele etapu:
+* Stworzenie szkieletu programu.<br />
+* Implementacja klas takich jak PackageQueue, Worker, Package.<br />
+* Projektowanie interface'u IPackageStockpile<br />
+* Definiowanie typów np.ElementID<br />
+# Niezbędne pliki do realizacji zadania:
+* plik nagłówkowy "package.hpp" zawierający definicję klasy Package
+* plik nagłówkowy "types.hpp" zawierający definicję aliasu ElementID
+* plik nagłówkowy "storage_types.hpp" zawierający definicje klas IPackageStockpile, IPackageQueue i PackageQueue oraz typu wyliczeniowego PackageQueueType
+* pliki źródłowe "package.cpp" i "storage_types.cpp" zawierające definicje funkcjonalności odpowiednich plików nagłówkowych (oraz ewentualne definicje dodatkowych funkcjonalności, niezbędnych wyłącznie w ramach danego pliku źródłowego)
